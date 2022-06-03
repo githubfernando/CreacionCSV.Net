@@ -1,0 +1,10 @@
+D:\IT_Local\GenerarArchivos\GenerarArchivos\bin\Debug\GenerarArchivos.exe.config
+D:\IT_Local\GenerarArchivos\GenerarArchivos\bin\Debug\GenerarArchivos.exe
+D:\IT_Local\GenerarArchivos\GenerarArchivos\bin\Debug\GenerarArchivos.pdb
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.csprojAssemblyReference.cache
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.Form1.resources
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.Properties.Resources.resources
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.csproj.GenerateResource.cache
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.csproj.CoreCompileInputs.cache
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.exe
+D:\IT_Local\GenerarArchivos\GenerarArchivos\obj\Debug\GenerarArchivos.pdb
